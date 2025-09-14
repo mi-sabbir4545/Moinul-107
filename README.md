@@ -1,4 +1,3 @@
-# Moinul
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Moinul Islam</h1>
 <h3 align="center">Full-Stack QA & Test Automation Engineer | Passionate about Quality 🚀</h3>
